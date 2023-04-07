@@ -5,6 +5,7 @@ shadesFace.addEventListener('click', ()=>{
     if(pukeFace.classList.contains('open')){
         pukeFace.classList.add('active');
         shadesFace.classList.remove('active');
+        
     }
 });
 pukeFace.addEventListener('click',()=>{

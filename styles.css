@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+   
 }
 .emoji{
     font-size: 10rem;
@@ -23,4 +24,12 @@ body {
 }
 .active{
     display: block;
+}
+h2{
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-size:25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
